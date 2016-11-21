@@ -5,6 +5,7 @@ HTMLWidgets.widget({
   type: 'output',
 
   initialize: function(el, width, height) {
+    alert("heatmap");
     return {
       lastTheme: null,
       lastValue: null
