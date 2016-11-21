@@ -33,3 +33,14 @@ Author: Joe Cheng [aut, cre],
   Justin Palmer [ctb, cph] (d3.tip library)
 Repository: CRAN
 Date/Publication: 2016-02-23 23:03:52
+Built: R 3.3.1; ; 2016-11-07 10:10:34 UTC; unix
+RemoteType: github
+RemoteHost: https://api.github.com
+RemoteRepo: d3heatmap
+RemoteUsername: aghozlane
+RemoteRef: master
+RemoteSha: b537e4a18fe6a99a2568427f30ee9e33396a30cf
+GithubRepo: d3heatmap
+GithubUsername: aghozlane
+GithubRef: master
+GithubSHA1: b537e4a18fe6a99a2568427f30ee9e33396a30cf
