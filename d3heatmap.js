@@ -27,10 +27,10 @@ HTMLWidgets.widget({
     instance.lastValue = x;
     
     if (instance.lastTheme && instance.lastTheme != x.theme) {
-      d3.select(document.body).classed("theme-" + instance.lastTheme, false);
+      d3h.select(document.body).classed("theme-" + instance.lastTheme, false);
     }
     if (x.theme) {
-      d3.select(document.body).classed("theme-" + x.theme, true);
+      d3h.select(document.body).classed("theme-" + x.theme, true);
     }
 
     el.innerHTML = "";
